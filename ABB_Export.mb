@@ -33,6 +33,7 @@ Declare Sub ExternalUpdateDevice
 Declare Sub TestKofra
 Declare Sub UpdateSubId
 
+dim ABBGithub as integer
 
 Declare Sub StorePassword(ByVal newPassword as String)
 Declare Function CheckPassword(ByVal checkPassword as String) as Logical
